@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.everest.iml" filepath="$PROJECT_DIR$/.idea/modules/org.everest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.everest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/org.everest_main.iml" group="org.everest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/org.everest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/org.everest_test.iml" group="org.everest" />
+    </modules>
+  </component>
+</project>
